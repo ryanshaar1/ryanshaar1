@@ -1,4 +1,3 @@
-[![MasterHead](https://scitechdaily.com/images/Quantum-Computer-Code-Concept.gif)]
 <h1 align="center">Hi 👋, I'm Ryan Shaar</h1>
 <h3 align="center">A passionate developer from Israel</h3>
 <img align="right" alt="Coding" width="400" height = 300 src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2bbf3a52005319.5901123c114f4.gif">
