@@ -4,13 +4,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanshaar1&label=Profile%20views&color=0e75b6&style=flat" alt="ryanshaar1" /> </p>
 
 
-- 🌱 I’m currently learning **VS CODE, python, java, cyber security, artificial intelligence. Going to start sql, arduino**
 
-- 💬 Ask me about **VS CODE, python, java, cyber security, artificial intelligence.**
+Here’s the translation of your text to English:
 
-- 📫 How to reach me **shaarryan@B-zvi.com**
+I am a person with a great interest in the fields of cybersecurity, intelligence analysis, and human psychology, with a strong learning ability and a high level of motivation to dive deep into security and technological topics. I engage in intensive reading of professional literature in areas such as cybersecurity, the Israeli Security Service, and related fields, and I conduct self-study in topics of interest like mathematics, physics, and computer science, beyond what is taught in school.
 
-- ⚡ Fun fact **I am going to be in MIT one day.**
+I have basic knowledge and experience in various areas, including:
+
+Computer Networks
+Programming in Java and Python
+Operating Systems: Windows and Linux
+Web Security
+Communication Protocols and Binary Operations
+Encryption and Hashing Information
+I believe in my ability to work independently and in a team, and I have a proactive approach to problem-solving. In addition, I am an anime enthusiast with a love for series like "Death Note" and "Classroom of the Elite."
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
