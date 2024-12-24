@@ -5,7 +5,6 @@
 
 
 
-Here’s the translation of your text to English:
 
 I am a person with a great interest in the fields of cybersecurity, intelligence analysis, and human psychology, with a strong learning ability and a high level of motivation to dive deep into security and technological topics. I engage in intensive reading of professional literature in areas such as cybersecurity, the Israeli Security Service, and related fields, and I conduct self-study in topics of interest like mathematics, physics, and computer science, beyond what is taught in school.
 
