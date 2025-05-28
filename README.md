@@ -24,7 +24,7 @@ I believe in my ability to work independently and in a team, and I have a proact
 <p align="left">
 <a href="https://linkedin.com/in/ryan shaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan shaar" height="30" width="40" /></a>
 <a href="https://instagram.com/ryan_shaar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ryan_shaar1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ryan_shaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ryan_shaar" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/ryan_shaar1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ryan_shaar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
