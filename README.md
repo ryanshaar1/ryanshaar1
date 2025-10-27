@@ -16,7 +16,7 @@ Operating Systems: Windows and Linux
 Web Security
 Communication Protocols and Binary Operations
 Encryption and Hashing Information
-I believe in my ability to work independently and in a team, and I have a proactive approach to problem-solving. In addition, I am an anime enthusiast with a love for series like "Death Note" and "Classroom of the Elite."
+I believe in my ability to work independently and in a team, and I have a proactive approach to problem-solving. In addition, I am an anime enthusiast with a love for series like "Death Note".
 
 
 
